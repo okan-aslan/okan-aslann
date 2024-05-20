@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/9103627d-6542-496d-a414-c8fc4072b0ce.svg)](https://wakatime.com/@9103627d-6542-496d-a414-c8fc4072b0ce)
+
 <!--
 **okan-aslann/okan-aslann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
